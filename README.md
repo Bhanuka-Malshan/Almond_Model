@@ -67,4 +67,3 @@ To run this application locally, follow these steps:
 - Use the file uploader to upload an image of an almond.
 - The image will be displayed in the app for further analysis.
 
-## Project Structure
